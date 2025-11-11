@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erankitkr011&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erankitkr011" alt="erankitkr011" /></a>
 </p>
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
