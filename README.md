@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erankitkr011&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left">
@@ -19,26 +23,26 @@
 ---
 
 ### 🌟 **About Me**
-I'm a passionate **Computer Science student** and **Full Stack Developer** who loves building impactful and scalable digital solutions.  
-I enjoy turning ideas into reality using the **MERN Stack** and exploring how **Web3** and **AI** can redefine user experiences.
+I’m a **Computer Science student** and **Full Stack Developer** passionate about building impactful digital experiences.  
+I love exploring new technologies like **Web3**, **AI**, and **real-time systems**, and I enjoy contributing to open source projects.
 
 ✨ **Currently:**
-- 🔭 Building **MERN stack projects**
-- 🌱 Learning **DSA, React, and Web3 (Ethereum & IPFS)**
-- 🤝 Actively **contributing to open-source projects**
-- 💬 Ask me about **Web Development, DSA, and Full Stack Projects**
+- 🔭 Working on **Full Stack Web Apps**  
+- 🌱 Learning **DSA, React, and Web3 (Ethereum & IPFS)**  
+- 🤝 Actively **contributing to open-source communities**  
+- 💬 Ask me about **Web Development, DSA, and Full-Stack Projects**  
 - 📫 Reach me at **erankitkr011@gmail.com**
 
 ---
 
 ### 💡 **About Open Source**
-Open source is not just about code — it's about **collaboration, learning, and impact**.  
-I actively contribute to open-source communities to:
-- 🧠 Learn from real-world projects  
-- 🤝 Collaborate with developers worldwide  
-- 🌍 Build tools that help others grow  
+Open source is more than code — it's **community, collaboration, and creativity**.  
+I contribute to open-source because it helps me:
+- 💡 Learn from real-world projects  
+- 🤝 Collaborate with global developers  
+- 🌍 Build something that matters  
 
-> “Every pull request is a step toward learning and making tech better.”
+> “Every pull request is a small step toward making technology better for everyone.”
 
 ---
 
@@ -92,9 +96,9 @@ I actively contribute to open-source communities to:
 
 ### 🌍 **Mission & Interests**
 I believe technology should **empower people** and **solve real-world challenges**.  
-I’m passionate about crafting **user-centric solutions** and contributing to the **open-source community**.  
+I’m passionate about creating **user-centric solutions** and contributing to **open-source communities**.  
 
-🌿 *Always learning, always building.*  
+🌱 *Always learning, always building.*  
 💬 *Let’s connect and create something extraordinary together!*
 
 ---
@@ -107,7 +111,3 @@ I’m passionate about crafting **user-centric solutions** and contributing to t
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erankitkr011&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
