@@ -2,6 +2,10 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 Open Source Contributor | 🧩 DSA Enthusiast</h3>
 <h4 align="center">🌱 Exploring Web3, Real-Time Systems & AI-Powered Applications</h4>
 
+<p align="center">
+  🔗 <a href="https://erankitkr011.github.io" target="_blank"><b>Visit My Portfolio Website</b></a>
+</p>
+
 ---
 
 <p align="center">
