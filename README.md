@@ -20,18 +20,29 @@
 
 ### 🌟 **About Me**
 I'm a passionate **Computer Science student** and **Full Stack Developer** who loves building impactful and scalable digital solutions.  
-I’m always curious about emerging tech and how **Web3, AI**, and **real-time systems** can shape the future of the web.  
+I enjoy turning ideas into reality using the **MERN Stack** and exploring how **Web3** and **AI** can redefine user experiences.
 
-🎯 **Currently:**
-- 🔭 Building **MERN stack applications**
-- 🧠 Learning **DSA, React.js, and Web3 (Ethereum + IPFS)**
-- 🤝 Actively contributing to **open-source projects**
+✨ **Currently:**
+- 🔭 Building **MERN stack projects**
+- 🌱 Learning **DSA, React, and Web3 (Ethereum & IPFS)**
+- 🤝 Actively **contributing to open-source projects**
 - 💬 Ask me about **Web Development, DSA, and Full Stack Projects**
 - 📫 Reach me at **erankitkr011@gmail.com**
 
 ---
 
-### 🤝 **Let's Connect**
+### 💡 **About Open Source**
+Open source is not just about code — it's about **collaboration, learning, and impact**.  
+I actively contribute to open-source communities to:
+- 🧠 Learn from real-world projects  
+- 🤝 Collaborate with developers worldwide  
+- 🌍 Build tools that help others grow  
+
+> “Every pull request is a step toward learning and making tech better.”
+
+---
+
+### 🤝 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/erankitkr011/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/erankitkr011" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-@erankitkr011-black?style=for-the-badge&logo=x" /></a>
@@ -52,7 +63,7 @@ I’m always curious about emerging tech and how **Web3, AI**, and **real-time s
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-  <a href="https://www.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
 </p>
 
@@ -71,10 +82,10 @@ I’m always curious about emerging tech and how **Web3, AI**, and **real-time s
 ---
 
 ### 🚀 **What I Do**
-- 🧩 **Full Stack Web Development** (MERN Stack)
-- 🧠 **Data Structures & Algorithms**
-- ⚙️ **Backend APIs** (Express.js, Node.js)
-- 🔗 **Blockchain & Web3** (Ethereum, IPFS)
+- 🧩 **Full Stack Web Development** (MERN Stack)  
+- 🧮 **Data Structures & Algorithms**  
+- ⚙️ **Backend APIs** (Express.js, Node.js)  
+- 🔗 **Blockchain & Web3** (Ethereum, IPFS)  
 - 🤖 **AI + Real-time Apps** (Socket.IO, WebSockets)
 
 ---
@@ -83,7 +94,7 @@ I’m always curious about emerging tech and how **Web3, AI**, and **real-time s
 I believe technology should **empower people** and **solve real-world challenges**.  
 I’m passionate about crafting **user-centric solutions** and contributing to the **open-source community**.  
 
-🌱 *Always learning, always building.*  
+🌿 *Always learning, always building.*  
 💬 *Let’s connect and create something extraordinary together!*
 
 ---
